@@ -1,1 +1,12 @@
-
+fastapi==0.110.0
+uvicorn[standard]==0.28.0
+sqlalchemy==2.0.28
+asyncpg==0.29.0
+pydantic-settings==2.2.1
+ultralytics==8.1.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.0
+taskiq==0.11.0
+taskiq-redis==0.5.0
+redis==5.0.0
+aiofiles==23.2.1
